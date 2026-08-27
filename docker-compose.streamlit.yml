@@ -1,0 +1,11 @@
+services:
+  agriscope:
+    build:
+      context: .
+      dockerfile: Dockerfile.streamlit
+    environment:
+      FIRMS_MAP_KEY: ${FIRMS_MAP_KEY:-}
+      SENTINEL_MAX_SAMPLE_HECTARES: ${SENTINEL_MAX_SAMPLE_HECTARES:-2500}
+    ports:
+      - "8501:8501"
+    restart: unless-stopped

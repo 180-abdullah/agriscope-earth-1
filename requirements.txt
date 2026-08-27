@@ -1,0 +1,15 @@
+# Streamlit application
+streamlit>=1.62,<2
+pandas>=2.2,<3
+numpy>=2,<3
+folium>=0.20,<1
+pydeck>=0.9,<1
+rasterio>=1.4,<2
+streamlit-folium>=0.25,<1
+
+# Shared Python research engine and optional API
+fastapi>=0.116,<1
+httpx[socks]>=0.28,<1
+pydantic>=2.11,<3
+python-dotenv>=1.1,<2
+uvicorn[standard]>=0.35,<1

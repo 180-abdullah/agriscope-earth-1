@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use AgriScope Earth, cite this software and every upstream dataset used in your analysis."
+title: "AgriScope Earth"
+type: software
+authors:
+  - name: "AgriScope Earth contributors"
+version: 0.2.0
+date-released: 2026-08-27
+license: MIT
+repository-code: "https://github.com/180-abdullah/agriscope-earth"
+url: "https://env-agri-earth.streamlit.app/"
+abstract: "A Python and Streamlit research-screening workbench for six global agricultural and environmental missions with explicit data provenance and limitations."
+keywords:
+  - agriculture
+  - environment
+  - geospatial intelligence
+  - remote sensing
+  - decision support

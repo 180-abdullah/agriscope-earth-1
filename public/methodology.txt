@@ -1,0 +1,19 @@
+AGRISCOPE EARTH — METHODOLOGY ASE-0.2
+
+AgriScope Earth is a research-screening system, not an official warning,
+diagnosis, audited carbon footprint or replacement for field measurements.
+
+Six missions:
+1. Flood and crop exposure
+2. Crop stress
+3. Wetland and land-use change
+4. Irrigation water and energy
+5. Agricultural greenhouse gases
+6. Fire and heat
+
+Every result declares whether its evidence is observed, near-real-time,
+forecast, modelled, calculated, user-supplied, demonstration or unavailable.
+
+Full equations, assumptions, source links and limitations are available in
+docs/METHODOLOGY.md, docs/DATA_SOURCES.md and
+docs/SCIENTIFIC_VALIDATION.md in the repository.
